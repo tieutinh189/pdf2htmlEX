@@ -99,7 +99,7 @@ void ffw_finalize(void)
 
 long ffw_get_version(void)
 {
-    return FONTFORGE_VERSIONDATE_RAW;
+    return '20190801';
 }
 
 void ffw_new_font()
